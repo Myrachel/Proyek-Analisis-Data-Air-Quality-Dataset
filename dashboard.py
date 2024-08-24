@@ -9,7 +9,7 @@ Original file is located at
 #Menyiapkan dashboard
 """
 
-pip install streamlit
+!pip install streamlit
 # Commented out IPython magic to ensure Python compatibility.
 %%writefile dashboard.py
  # Import library
@@ -120,4 +120,4 @@ pip install streamlit
  elif selected_station == "Stasiun Lain":
      st.write("Visualisasi untuk stasiun lain akan ditambahkan di sini.")
 
-streamlit run dashboard.py & npx localtunnel --port 8501
+!streamlit run dashboard.py & npx localtunnel --port 8501
