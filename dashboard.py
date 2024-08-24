@@ -10,6 +10,7 @@ Original file is located at
 """
 
 pip install --upgrade git+https://github.com/StreamAlpha/pynse.git
+
 # Commented out IPython magic to ensure Python compatibility.
 %%writefile dashboard.py
  # Import library
