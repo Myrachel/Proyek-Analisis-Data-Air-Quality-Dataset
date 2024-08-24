@@ -8,8 +8,9 @@ Original file is located at
 
 #Menyiapkan dashboard
 """
-
-pip install --upgrade git+https://github.com/StreamAlpha/pynse.git
+git clone https://github.com/Myrachel/Proyek-Analisis-Data-Air-Quality-Dataset.git
+cd Proyek-Analisis-Data-Air-Quality-Dataset
+pip install -r requirements.txt
 
 # Commented out IPython magic to ensure Python compatibility.
 %%writefile dashboard.py
