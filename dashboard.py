@@ -8,9 +8,7 @@ Original file is located at
 
 #Menyiapkan dashboard
 """
-git clone https://github.com/Myrachel/Proyek-Analisis-Data-Air-Quality-Dataset.git
-cd Proyek-Analisis-Data-Air-Quality-Dataset
-pip install -r requirements.txt
+pip install streamlit
 
 # Commented out IPython magic to ensure Python compatibility.
 %%writefile dashboard.py
