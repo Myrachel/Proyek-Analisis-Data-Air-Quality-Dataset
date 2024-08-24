@@ -9,7 +9,7 @@ Original file is located at
 #Menyiapkan dashboard
 """
 
-pip install streamlit
+
 # Commented out IPython magic to ensure Python compatibility.
 %%writefile dashboard.py
  # Import library
